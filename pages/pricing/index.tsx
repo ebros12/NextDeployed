@@ -1,8 +1,9 @@
+
 import Link from 'next/link'
-import { MainLayout } from '../components/layouts/MainLayout'
+import { MainLayout } from '../../components/layouts/MainLayout'
 
 
-export default function HomePage() {
+export default function PicingPage() {
   return (
     <MainLayout>
         <h1>Home Page</h1>
